@@ -1,2 +1,2 @@
 # Quiz Website
-<img src=".Quiz Image.png"/>
+<img src=".Quiz_Image.png"/>
